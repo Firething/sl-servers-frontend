@@ -136,168 +136,168 @@
       "frame-title": "Conteúdo do Pastebin para este servidor",
       "loading": "Carregando conteúdo do Pastebin...  ",
       "open": "Abrir no Pastebin",
-      "notice": "Shown with Pastebin's official embed because its terms don't allow this site to display the content directly. Formatting tags may appear as plain text, and expired or private pastes won't show up."
+      "notice": "Exibido com a embed oficial do Pastebin pois seus termos não permitem que este site mostre o conteúdo diretamente. As tags de formatação podem aparecer como texto simples, e pastas expiradas ou privadas não aparecerão."
     },
-    "distance": "Distance",
-    "statistics": "Server statistics",
-    "daylight-saving-time": "Graph times don't adjust for daylight saving time.",
+    "distance": "Distância",
+    "statistics": "Estatísticas do servidor",
+    "daylight-saving-time": "Os tempos do gráfico não se ajustam ao horário de verão.",
     "graph": {
-      "loading": "Loading data...",
+      "loading": "Carregando dados...",
       "options": {
-        "data-range": "Date range",
-        "start-time": "Start time",
-        "stop-time": "End time",
-        "data-resolution": "Data interval",
-        "graph-update-btn": "Update graph",
-        "time": "Time",
-        "invalid-range": "Start time must be before end time.",
+        "data-range": "Intervalo de datas",
+        "start-time": "Hora de início",
+        "stop-time": "Hora de término",
+        "data-resolution": "Intervalo de data",
+        "graph-update-btn": "Atualizar gráfico",
+        "time": "Tempo",
+        "invalid-range": "O horário de início deve estar antes do horário de término.",
         "period": {
-          "custom": "Custom",
-          "1hour": "1 hour",
-          "8hour": "8 hours",
-          "1day": "1 day",
-          "2day": "2 days",
-          "1week": "1 week",
-          "1month": "1 month",
-          "3month": "3 months",
-          "1year": "1 year",
-          "4year": "4 years"
+          "custom": "Personalizado",
+          "1hour": "1 hora",
+          "8hour": "8 horas",
+          "1day": "1 dia",
+          "2day": "2 dias",
+          "1week": "1 semana",
+          "1month": "1 mês",
+          "3month": "3 meses",
+          "1year": "1 ano",
+          "4year": "4 anos"
         },
         "resolution": {
-          "1m": "1 minute",
-          "5m": "5 minutes",
-          "1h": "1 hour",
-          "1d": "1 day"
+          "1m": "1 minuto",
+          "5m": "5 minutos",
+          "1h": "1 hora",
+          "1d": "1 dia"
         }
       }
     },
-    "copy-address": "Copy address",
-    "address-copied": "Copied",
-    "tech": "Mods and plugins"
+    "copy-address": "Copiar endereço",
+    "address-copied": "Copiado",
+    "tech": "Modificações e plug-ins"
   },
   "funding": {
-    "label": "Advertisement",
-    "why": "Why this site has ads"
+    "label": "Anúncio",
+    "why": "Porque este site tem anúncios"
   },
   "footer": {
-    "notice": "SCP: Secret Laboratory is a game released by Northwood Studios™. This site is not affiliated with Northwood Studios™.<br/>All trademarks and registered trademarks are the property of their respective owners.",
-    "description": "Find SCP: SL servers with filters, player trends and statistics.",
+    "notice": "SCP: Secret Laboratory é um jogo lançado pela Northwood Studios™. Este site não é afiliado à Northwood Studios™.<br/>Todas as marcas comerciais e marcas registradas são propriedade de seus respectivos donos.",
+    "description": "Encontre servidores de SCP: SL com filtros, tendências de jogadores e estatísticas.",
     "links": "Links",
-    "translation-title": "Translations",
-    "translation-body": "Help translate this site into your language.",
-    "contribute": "Contribute on GitHub",
-    "browse": "Browse",
-    "statistics": "Statistics",
-    "site": "This site"
+    "translation-title": "Traduções",
+    "translation-body": "Ajude a traduzir este site para o seu idioma.",
+    "contribute": "Contribuir no GitHub",
+    "browse": "Navegar",
+    "statistics": "Estatísticas",
+    "site": "Este site"
   },
   "all-stats": {
     "users": {
-      "title": "Players across all servers",
+      "title": "Jogadores ao longo de todos os servidores",
       "select-compare-country": {
-        "name": "Select a country to compare"
+        "name": "Selecione um país para comparar"
       },
       "show-all": {
-        "name": "Show all countries"
+        "name": "Mostrar todos os países"
       },
       "graph": {
-        "all-country": "All countries",
-        "empty-country": "No data available."
+        "all-country": "Todos os países",
+        "empty-country": "Sem dados disponíveis."
       }
     },
     "mod-loader": {
-      "title": "Mod loader statistics",
-      "back": "Back",
-      "versions-title": "{{name}} versions",
-      "drill-hint": "Click a slice to see its versions",
-      "drill-back-hint": "Click Back to see all loaders"
+      "title": "Estatísticas de mod loaders",
+      "back": "Voltar",
+      "versions-title": "{{name}} versões",
+      "drill-hint": "Clique em uma fatia para ver as versões",
+      "drill-back-hint": "Clique em Voltar para ver todos os loaders"
     }
   },
   "all-server-map": {
-    "title": "Server map",
-    "server-info-btn": "View server info",
-    "location-count": "{{total}} locations"
+    "title": "Mapa de servidores",
+    "server-info-btn": "Ver informações do servidor",
+    "location-count": "{{total}} locais"
   },
   "consent": {
     "revoke": {
-      "title": "Tracking will stop after the next page reload",
-      "description": "Analytics scripts already loaded in this tab will keep running until you reload. Reload now to apply your choice immediately.",
-      "reload": "Reload"
+      "title": "O rastreamento terminará após o próximo recarregamento da página",
+      "description": "Scripts de análise já carregados nesta aba continuarão sendo executados até você recarregar. Recarregue agora para aplicar sua escolha imediatamente.",
+      "reload": "Recarregar"
     }
   },
   "credit": {
-    "licenses-title": "Third-party licenses",
-    "licenses-description": "Open source software included in this site. Open a package to read its license and notices.",
-    "repository": "Repository",
-    "author": "Author: {{author}}",
-    "no-license-file": "This package ships without a license file. It declares {{license}}; check its repository for the full terms.",
-    "load-failed": "Could not load the license list. Please try again later.",
-    "loading": "Loading the license list",
-    "site-license": "The source code of this site is available on GitHub under the AGPL-3.0 license.",
-    "resources-title": "Data and external resources",
+    "licenses-title": "Licenças de terceiros",
+    "licenses-description": "Software de código aberto incluído neste site. Abra um pacote para ler sua licença e avisos.",
+    "repository": "Repositório",
+    "author": "Autor: {{author}}",
+    "no-license-file": "Este pacote é fornecido sem um arquivo de licença. Ele declara {{license}}; verifique seu repositório para os termos completos.",
+    "load-failed": "Não pôde carregar a lista de licenças. Por favor, tente novamente mais tarde.",
+    "loading": "Carregando a lista de licenças",
+    "site-license": "O código-fonte deste site está disponível no GitHub sob a licença AGPL-3.0.",
+    "resources-title": "Dados e recursos externos",
     "resources": {
-      "carto": "Base map tiles on the server map.",
-      "openstreetmap": "Map data behind the base map, available under the Open Database License.",
-      "geolite": "Estimates server locations from their IP addresses.",
-      "country-flag-icons": "Country flag images.",
-      "pastebin": "Embedded pastes on server pages. Pastebin hosts them and each paste belongs to its author."
+      "carto": "Blocos de mapa base no mapa de servidores.",
+      "openstreetmap": "Dados de mapa por trás do mapa base, disponíveis sob a  Open Database License.",
+      "geolite": "Estima os locais dos servidores pelos seus endereços de IP.",
+      "country-flag-icons": "Imagens de bandeira de país.",
+      "pastebin": "Pastas embutidas nas páginas dos servidores. O Pastebin hospeda elas e cada pasta pertence ao seu autor."
     },
-    "search-placeholder": "Search licenses or packages",
-    "no-match": "No packages match this search.",
-    "contributors-title": "Translators"
+    "search-placeholder": "Buscar licenças ou pacotes",
+    "no-match": "Nenhum pacote corresponde a esta busca.",
+    "contributors-title": "Tradutores"
   },
   "insights": {
-    "loading": "Loading long-term stats...",
-    "players": "{{players}} players",
+    "loading": "Carregando estatísticas de longo prazo...",
+    "players": "{{players}} jogadores",
     "history": {
-      "age": "Running for",
-      "age-years": "{{years}}y {{months}}mo",
-      "age-months": "{{months}} months",
-      "age-days": "{{days}} days",
-      "age-first-seen": "First seen {{date}}",
-      "age-since-start": "Since before our records began ({{date}})",
-      "peak": "All-time peak",
-      "versions": "Game updates seen",
-      "versions-value": "{{versions}} versions",
-      "seniority": "Age rank",
-      "seniority-value": "Oldest {{percent}}%",
-      "seniority-note": "Among servers online now"
+      "age": "Funcionando há",
+      "age-years": "{{years}} anos e {{months}} meses",
+      "age-months": "{{months}} meses",
+      "age-days": "{{days}} dias",
+      "age-first-seen": "Visto pela primeira vez em {{date}}",
+      "age-since-start": "Desde que nossos registros começaram em ({{date}})",
+      "peak": "Pico histórico",
+      "versions": "Atualizações do jogo vistas",
+      "versions-value": "{{versions}} versões",
+      "seniority": "Classificação por idade",
+      "seniority-value": "{{percent}}% mais antigo",
+      "seniority-note": "entre os servidores ativos agora"
     },
     "heatmap": {
-      "title": "When is it busy?",
-      "description": "Typical peak by hour over the last {{weeks}} weeks, in your time zone ({{zone}})",
+      "title": "Quando está movimentado?",
+      "description": "Pico típico por hora ao longo das últimas {{weeks}} semanas, em seu fuso-horário ({{zone}})",
       "time": "{{day}} {{hour}}:00",
-      "readout": "{{time}}: usually {{players}} players",
-      "readout-now": "Right now ({{time}}): usually {{players}} players",
-      "readout-empty": "{{time}}: not enough data",
-      "readout-full": "full {{percent}}% of the time",
-      "legend-low": "Quiet",
-      "legend-high": "Busy ({{players}})",
-      "legend-full": "Often full ({{capacity}} slots)",
-      "quiet": "This server has been mostly empty for the last {{weeks}} weeks."
+      "readout": "{{time}}: geralmente {{players}} jogadores",
+      "readout-now": "Agora ({{time}}): geralmente {{players}} jogadores",
+      "readout-empty": "{{time}}: sem dados suficientes",
+      "readout-full": "cheio {{percent}}% do tempo",
+      "legend-low": "Tranquilo",
+      "legend-high": "Movimentado ({{players}})",
+      "legend-full": "Costuma lotar ({{capacity}} vagas)",
+      "quiet": "Este servidor esteve praticamente vazio pelas últimas {{weeks}} semanas."
     },
     "global": {
-      "title": "SCP:SL timeline",
-      "description": "Highest concurrent players across all listed servers since {{date}}",
-      "latest": "Latest daily peak",
-      "rank": "All-time rank",
+      "title": "Linha do tempo do SCP:SL",
+      "description": "Maiores jogadores concorrentes ao longo dos servidores listados desde {{date}}",
+      "latest": "Pico diário mais recente",
+      "rank": "Pico histórico",
       "rank-value": "#{{rank}}",
-      "rank-note": "Of {{days}} days, busier than {{percent}}%",
-      "year-ago": "Vs last year",
-      "year-ago-note": "{{date}}: {{players}} players",
-      "today": "Today so far",
-      "today-note": "Still counting",
-      "chart-note": "Each point is the busiest day of its week. Vertical lines mark major updates. Collection was down for {{days}} days in total.",
-      "no-data": "No data",
-      "release-tooltip": "Update {{version}}",
-      "records": "Highest days on record",
-      "record-near-release": "around {{version}}",
-      "releases": "Around major updates",
-      "release-version": "Version",
-      "release-date": "First seen",
-      "release-before": "14 days before",
-      "release-after": "14 days after",
-      "release-change": "Change",
-      "release-caveat": "Median daily peak in the 14 days before and after each update. Seasons and holidays also play a part, so this is not the effect of the update alone."
+      "rank-note": "De {{days}} dias, mais movimentado do que {{percent}}%",
+      "year-ago": "Vs. ano passado",
+      "year-ago-note": "{{date}}: {{players}} jogadores",
+      "today": "Até agora, hoje",
+      "today-note": "Ainda contando",
+      "chart-note": "Cada ponto é o dia mais movimentado de sua semana. Linhas verticais marcam atualizações maiores. A coleta ficou parada por {{days}} dias no total.",
+      "no-data": "Sem dados",
+      "release-tooltip": "Atualização {{version}}",
+      "records": "Maior número de dias já registrado",
+      "record-near-release": "por volta da {{version}}",
+      "releases": "Por volta das atualizações maiores",
+      "release-version": "Versão",
+      "release-date": "Visto pela primeira vez",
+      "release-before": "14 dias antes",
+      "release-after": "14 dias depois",
+      "release-change": "Mudança",
+      "release-caveat": "Pico diário mediano nos 14 dias antes e depois de cada atualização. Temporadas e feriados também desempenham um papel, então isto não é o efeito da atualização por si só."
     }
   },
   "pages": {
